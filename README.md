@@ -7,5 +7,6 @@
 * El flujo de trabajo en Github
 * Buenas practicas
 * Ejemplos en Windows, Linux y Mac
+* Disponible para todos
 
 Recordando que **Este readme.md es una prueba** 
